@@ -3,4 +3,5 @@ export const NUMERO_DE_LINEA = '595992022127';
 // Configuración de Meta Pixel
 export const META_PIXEL_ID = '1276678713442753';
 
-export const META_EVENT_NAME = 'ClickTrebol';
+export const META_EVENT_NAME = 'ClickFortu';
+
